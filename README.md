@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Elkanouni-samir/Sign-Language-Translation">
-    <img src="presentation/logo.png" alt="Logo" width="80" height="80">
+    <img src="Presentation/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Sign Language Translation</h3>
