@@ -11,7 +11,7 @@
 <h3 align="center">Sign Language Translation</h3>
 
   <p align="center">
-    An app to translate gestures to words and sounds in real time
+    Sign Language Translation is an app that translates gestures into words and sounds in real time
     <br />
     <a href="https://docs.google.com/presentation/d/1eXL84y_pzSWl21ZZ1IArxbnpbjQS35hfdgCSm2_B2_Q/edit?usp=sharing"><strong>View Demo »</strong></a>
     <br />
@@ -37,38 +37,32 @@
 ## About The Project
 
 
-La communication est l’une des choses les plus nécessaire
-dans la vie de l’être humain, tant qu’elle nous permet
-d’exprimer et communiquer avec l’autre, or il existe
-plusieurs gens qui n’arrivent pas à exprimer leurs idées et
-besoins, spécifiquement les mutismes, vu l’ignorance du
-langage de signe par la majorité des gens. Ce qui nous a
-amené à proposer une solution réalisable, abordable,
-convenable, afin de communiquer facilement avec eux.
+Communication is one of the most essential aspects of human life as it allows us to express ourselves and connect with others. However, there are many individuals who face challenges in expressing their ideas and needs, specifically individuals with mutism, due to the lack of understanding of sign language by the majority of people. This motivated us to propose a feasible, affordable, and appropriate solution to facilitate communication with them.
 
-En effet, la communication avec les mutismes ne se fait
-que par des signes ou des gestes communs qui diffèrent
-selon le contexte et la région.
-Alors, il faut un canal intermédiaire entre les mutismes et
-les gens qui n’arrivent pas à bien maîtriser leurs signes.
-Notre idée est de réaliser des scripts en python qui
-peuvent gérer cette problématique.
-
+Currently, communication with individuals with mutism is primarily through common signs or gestures, which can vary based on the context and region. Therefore, there is a need for an intermediary channel between individuals with mutism and those who struggle to fully understand their signs. Our idea is to develop Python scripts that can address this challenge.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Scripts
 
--  Data Collection
--  Data Training
--  Detection In Real Time
+The Sign-Language-Translation project consists of the following scripts:
+
+- Data Collection: This script focuses on collecting sign language data, which will be used for training and development purposes. It involves capturing video or image data of sign gestures performed by individuals with mutism.
+
+- Data Training: This script is responsible for training the machine learning model using the collected sign language data. It involves preprocessing the data, extracting relevant features, and training a model such as a deep learning neural network.
+
+- Detection In Real Time: This script enables real-time detection and translation of sign gestures into corresponding words and sounds. It utilizes the trained machine learning model to recognize and interpret the sign gestures captured from a live video stream.
+
+Each script is designed to perform a specific function in the sign language translation pipeline, contributing to the overall functionality of the application.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
 ## Contact
+For any inquiries or further information about the Sign-Language-Translation project, please feel free to reach out to:
 
-[Elkanouni Samir](https://www.linkedin.com/in/samir-elkanouni-77b425223) - elkanouni.samir2019@gmail.com
+[Elkanouni Samir](https://www.linkedin.com/in/samir-elkanouni-77b425223)</br>
+Email: elkanouni.samir2019@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
